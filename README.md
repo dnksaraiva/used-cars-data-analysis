@@ -14,4 +14,4 @@ In development :warning:
 
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.****
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/dnksaraiva/used-cars-data-analysis/blob/main/LICENSE) file for details.
