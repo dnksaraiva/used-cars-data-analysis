@@ -11,3 +11,7 @@ The dataset was taken from the kaggle and contains details of the used cars in G
 ## Project Status: 
 
 In development :warning:
+
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.****
