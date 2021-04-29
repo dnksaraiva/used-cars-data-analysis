@@ -7,3 +7,7 @@ This project was developed for the Data Science Academy, in order to demonstrate
 ## Dataset
 
 The dataset was taken from the kaggle and contains details of the used cars in Germany that are for sale on ebay.
+
+## Project Status: 
+
+In development :warning:
