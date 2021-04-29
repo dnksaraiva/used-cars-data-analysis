@@ -1,3 +1,3 @@
-## Analyzing Used Car Data from Germany
+# Analyzing Used Car Data from Germany
 
-# By Danikelle Saraiva
+## By Danikelle Saraiva
